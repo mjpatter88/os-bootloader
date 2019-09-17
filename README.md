@@ -4,8 +4,8 @@ http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 
 
 Progress:
-3.4.3 Define Strings
-pdf page 16 (or 20 in the viewer)
+3.4.6 Calling Functions
+pdf page 19 (or 23 in the viewer)
 
 
 
@@ -36,3 +36,7 @@ pdf page 16 (or 20 in the viewer)
 - 0xA0000 - Video Memory (128k KB)
 - 0xC0000 - BIOS (256 KB)
 - 0x100000 - Free
+
+
+### References
+- http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
